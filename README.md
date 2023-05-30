@@ -1,6 +1,9 @@
 Odkaz na web:
 https://ondrejduda022.github.io/index.html
 
+Odkaz na repositář:
+https://github.com/OndrejDuda022/OndrejDuda022.github.io
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/o2Wgw4lL)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11251628&assignment_repo_type=AssignmentRepo)
 # Vlastní webová stránka
