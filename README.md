@@ -26,7 +26,7 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 * [x] Navigace mezi stránkami je tvořená přes ``<nav><ul><li><a>`` a je funkční i po zkopírování na lokální disk
 * [x] Soubory webu jsou členěny do složek (např. ``/styles``, ``/images``, ``/fonts``)
 * [x] Soubory webu se nacházejí v GitHubovém repozitáři
-* [ ] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
+* [x] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
 * [x] Web je dostupný přes Github Pages (do README.md přidejte odkaz)
 * [ ] Celková načítaná velikost jednotlivých stránek nepřesahuje jednotky MiB
 * [ ] Stránka obsahuje formátovaný seznam zdrojů textu a obrázků
