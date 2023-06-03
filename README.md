@@ -29,7 +29,7 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 * [x] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
 * [x] Web je dostupný přes Github Pages (do README.md přidejte odkaz)
 * [ ] Celková načítaná velikost jednotlivých stránek nepřesahuje jednotky MiB
-* [ ] Stránka obsahuje formátovaný seznam zdrojů textu a obrázků
+* [x] Stránka obsahuje formátovaný seznam zdrojů textu a obrázků
 
 ### CSS, vzhled
 
