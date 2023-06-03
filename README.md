@@ -33,7 +33,7 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 
 ### CSS, vzhled
 
-* [ ] Stránky používají několik souborů stylů, jeden z nich je [normalize](https://necolas.github.io/normalize.css/)
+* [x] Stránky používají několik souborů stylů, jeden z nich je [normalize](https://necolas.github.io/normalize.css/)
 * [x] Ke stránkám jsou připojeny externí fonty (např. přes [Google Fonts](https://fonts.google.com/))
 * [x] Stránka obsahuje horizontální nebo vertikální menu s odkazy na celou plochu nabídky
 * [ ] Vzhled stránek je zamýšlen na mobilní telefon pro rozměr od cca 360px do 960px. Content-wrapper má omezení na ``max-width: 960px; margin: 0 auto;``
