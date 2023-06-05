@@ -51,7 +51,7 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 }
 ````
 * [x] Styly definují vzhled prvků podle typografických zvyklosti (velikosti nadpisů, formát odstavců)
-* [ ] Odkazy (například menu) využívají efekt ``hover``
+* [x] Odkazy (například menu) využívají efekt ``hover``
 * [ ] Za nebo před odkazy v textu je přidána ikonka (např. šipka) (využití ``::before`` nebo ``::after``)
 
 ### Vyzkoušejte nad rámec probrané látky
