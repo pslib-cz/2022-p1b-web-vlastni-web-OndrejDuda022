@@ -43,7 +43,7 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 * [x] Web používá omezenou paletu barev a mezer (lze zajistit přes [proměnné v CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties))
 * [x] Barevné schéma je vkusné a odpovídá tématu. Inspiraci můžete čerpat z [editoru palet](https://coolors.co/palettes/trending)
 * [ ] Šířka hlavního bloku stránky je omezená (tedy používá například ``width``, ``margin``, ``max-width``)
-* [ ] Web obsahuje obrázek v záhlaví zobrazovaný na celou velikost/výšku obrazovky
+* [x] Web obsahuje obrázek v záhlaví zobrazovaný na celou velikost/výšku obrazovky
 ````    
 .main-header {
     background-image: url(img_bg.jpg);
