@@ -21,7 +21,7 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 ### HTML, struktura souborů
 
 * [x] Web má alespoň dvě stránky provázané společnými styly
-* [ ] HTML kód je validní bez chyb ve [validátoru](https://validator.w3.org/)
+* [x] HTML kód je validní bez chyb ve [validátoru](https://validator.w3.org/)
 * [x] HTML značky dávají smysl, kód obsahuje ``<article>``, ``<section>``, ``<header>``, ``<nav>``.
 * [x] Navigace mezi stránkami je tvořená přes ``<nav><ul><li><a>`` a je funkční i po zkopírování na lokální disk
 * [x] Soubory webu jsou členěny do složek (např. ``/styles``, ``/images``, ``/fonts``)
