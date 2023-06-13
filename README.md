@@ -36,13 +36,13 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 * [x] Stránky používají několik souborů stylů, jeden z nich je [normalize](https://necolas.github.io/normalize.css/)
 * [x] Ke stránkám jsou připojeny externí fonty (např. přes [Google Fonts](https://fonts.google.com/))
 * [x] Stránka obsahuje horizontální nebo vertikální menu s odkazy na celou plochu nabídky
-* [ ] Vzhled stránek je zamýšlen na mobilní telefon pro rozměr od cca 360px do 960px. Content-wrapper má omezení na ``max-width: 960px; margin: 0 auto;``
+* [x] Vzhled stránek je zamýšlen na mobilní telefon pro rozměr od cca 360px do 960px. Content-wrapper má omezení na ``max-width: 960px; margin: 0 auto;``
 * [x] Obrázky mají rozumnou velikost pro mobilní telefon
 * [x] Velikosti písem jsou odvozeny od kořenového elementu
 * [x] Velikosti mezer kolem prvku jsou odvozeny od velikosti písma elementu
 * [x] Web používá omezenou paletu barev a mezer (lze zajistit přes [proměnné v CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties))
 * [x] Barevné schéma je vkusné a odpovídá tématu. Inspiraci můžete čerpat z [editoru palet](https://coolors.co/palettes/trending)
-* [ ] Šířka hlavního bloku stránky je omezená (tedy používá například ``width``, ``margin``, ``max-width``)
+* [x] Šířka hlavního bloku stránky je omezená (tedy používá například ``width``, ``margin``, ``max-width``)
 * [x] Web obsahuje obrázek v záhlaví zobrazovaný na celou velikost/výšku obrazovky
 ````    
 .main-header {
@@ -63,7 +63,7 @@ Po splnění předchozích bodů
 * [ ] Jsou použity ikonky přes Font Awesome nebo [IcoMoon](https://icomoon.io/)
 * [x] vytvořte galerii obrázků tvořenou náhledy vedle sebe (``display: flex`` nebo ``inline-block``)
 * [ ] Použijte pozadí přes lineární nebo radiální gradient
-* [ ] + jakékoli další vylepšení, kterým chcete zanechat přetrvávající dojem
+* [x] + jakékoli další vylepšení, kterým chcete zanechat přetrvávající dojem
 
 ## Kde hledat řešení a inspiraci?
 
